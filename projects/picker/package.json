@@ -1,5 +1,5 @@
 {
-  "name": "ng-pick-datetime",
+  "name": "ng-pick-datetime-extended",
   "version": "8.0.0",
   "description": "Angular Date Time Picker",
   "keywords": [
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DanielYKPan/date-time-picker.git"
+    "url": "https://github.com/oleg088097/date-time-picker.git"
   },
   "peerDependencies": {
     "@angular/common": "^7.0.0",
